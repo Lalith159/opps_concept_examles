@@ -1,5 +1,5 @@
 package inheritance;
-
+//inheritance code
 public class SBI extends ICIC {
 	public void setfirstname(String fname) {
     	System.out.println("the anme of the SBI person: "+fname);

@@ -1,5 +1,5 @@
 package inheritance;
-
+//inheritance code
 public class HDFC extends personaldetails1 {
 	public void setfirstname(String fname) {
     	System.out.println("the name of the HDFC person: "+fname);
